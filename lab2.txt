@@ -1,0 +1,9 @@
+Question:
+You have created a GitHub repository and want to share it with your friend Bob by
+sending him the repository link. When Bob clicks the link in his web browser, some communication happens over the internet. Explain step by step what happens using the concepts of client and server. In your explanation, make sure to mention
+
+
+bob's computer is the client
+github is the server
+bob's computer sends https requests access to the page  
+github sends requested info back to bob
